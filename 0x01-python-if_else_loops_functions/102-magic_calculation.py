@@ -8,3 +8,5 @@ def magic_calculation(a, b, c):
         return (c)
     if c > b:
         return (a)
+    if c > a
+        return (b)
